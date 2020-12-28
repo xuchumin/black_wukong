@@ -1,0 +1,301 @@
+{"frames": {
+
+"j1.png":
+{
+	"frame": {"x":1,"y":320,"w":27,"h":32},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":32},
+	"sourceSize": {"w":27,"h":32},
+	"anchor": {"x":0.740741,"y":1}
+},
+"j2.png":
+{
+	"frame": {"x":42,"y":118,"w":20,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":28},
+	"sourceSize": {"w":20,"h":28},
+	"anchor": {"x":0.65,"y":1}
+},
+"j3.png":
+{
+	"frame": {"x":1,"y":134,"w":37,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":27},
+	"sourceSize": {"w":37,"h":27},
+	"anchor": {"x":0.378378,"y":1}
+},
+"l.png":
+{
+	"frame": {"x":1,"y":189,"w":34,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":29},
+	"sourceSize": {"w":34,"h":29},
+	"anchor": {"x":0.617647,"y":1}
+},
+"u1.png":
+{
+	"frame": {"x":1,"y":162,"w":35,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":26},
+	"sourceSize": {"w":35,"h":26},
+	"anchor": {"x":0.457143,"y":1}
+},
+"u2.png":
+{
+	"frame": {"x":1,"y":74,"w":40,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":23},
+	"sourceSize": {"w":40,"h":23},
+	"anchor": {"x":0.3,"y":1}
+},
+"死亡1.png":
+{
+	"frame": {"x":43,"y":42,"w":20,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":36},
+	"sourceSize": {"w":20,"h":36},
+	"anchor": {"x":0.7,"y":1}
+},
+"死亡2.png":
+{
+	"frame": {"x":39,"y":147,"w":23,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":37},
+	"sourceSize": {"w":23,"h":37},
+	"anchor": {"x":0.782609,"y":1}
+},
+"死亡3.png":
+{
+	"frame": {"x":1,"y":219,"w":33,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":31},
+	"sourceSize": {"w":33,"h":31},
+	"anchor": {"x":0.909091,"y":1}
+},
+"死亡4.png":
+{
+	"frame": {"x":42,"y":79,"w":38,"h":21},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":21},
+	"sourceSize": {"w":38,"h":21},
+	"anchor": {"x":0.947368,"y":1}
+},
+"死亡5.png":
+{
+	"frame": {"x":1,"y":98,"w":40,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":18},
+	"sourceSize": {"w":40,"h":18},
+	"anchor": {"x":0.925,"y":1}
+},
+"死亡6.png":
+{
+	"frame": {"x":49,"y":1,"w":40,"h":9},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":9},
+	"sourceSize": {"w":40,"h":9},
+	"anchor": {"x":0.925,"y":1}
+},
+"站1.png":
+{
+	"frame": {"x":34,"y":347,"w":31,"h":29},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":29},
+	"anchor": {"x":0.677419,"y":1}
+},
+"站2.png":
+{
+	"frame": {"x":1,"y":348,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":29},
+	"anchor": {"x":0.677419,"y":1}
+},
+"蓄力重击1.png":
+{
+	"frame": {"x":1,"y":320,"w":27,"h":32},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":32},
+	"sourceSize": {"w":27,"h":32},
+	"anchor": {"x":0.740741,"y":1}
+},
+"蓄力重击2.png":
+{
+	"frame": {"x":1,"y":117,"w":16,"h":40},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":40},
+	"sourceSize": {"w":16,"h":40},
+	"anchor": {"x":0.75,"y":1}
+},
+"蓄力重击3.png":
+{
+	"frame": {"x":1,"y":16,"w":16,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":45},
+	"sourceSize": {"w":16,"h":46},
+	"anchor": {"x":0.5625,"y":1}
+},
+"蓄力重击4.png":
+{
+	"frame": {"x":1,"y":33,"w":41,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":40},
+	"sourceSize": {"w":41,"h":40},
+	"anchor": {"x":0.829268,"y":0.775}
+},
+"蓄力重击5.png":
+{
+	"frame": {"x":1,"y":1,"w":47,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":14},
+	"sourceSize": {"w":47,"h":14},
+	"anchor": {"x":0.191489,"y":1}
+},
+"被打.png":
+{
+	"frame": {"x":1,"y":378,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":32,"h":29},
+	"anchor": {"x":0.6875,"y":1}
+},
+"走1.png":
+{
+	"frame": {"x":35,"y":219,"w":31,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"anchor": {"x":0.709677,"y":1}
+},
+"走2.png":
+{
+	"frame": {"x":35,"y":251,"w":31,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"anchor": {"x":0.645161,"y":1}
+},
+"走3.png":
+{
+	"frame": {"x":35,"y":283,"w":31,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"anchor": {"x":0.645161,"y":1}
+},
+"走4.png":
+{
+	"frame": {"x":33,"y":379,"w":31,"h":29},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":30},
+	"anchor": {"x":0.645161,"y":0.966667}
+},
+"走5.png":
+{
+	"frame": {"x":1,"y":408,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":30},
+	"anchor": {"x":0.677419,"y":0.966667}
+},
+"跳1.png":
+{
+	"frame": {"x":37,"y":185,"w":22,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":33},
+	"sourceSize": {"w":22,"h":33},
+	"anchor": {"x":0.545455,"y":0.787879}
+},
+"跳2.png":
+{
+	"frame": {"x":1,"y":251,"w":33,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":22},
+	"sourceSize": {"w":33,"h":22},
+	"anchor": {"x":0.515152,"y":1}
+},
+"跳3.png":
+{
+	"frame": {"x":1,"y":297,"w":22,"h":33},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":33},
+	"sourceSize": {"w":22,"h":33},
+	"anchor": {"x":0.454545,"y":0.848485}
+},
+"跳4.png":
+{
+	"frame": {"x":1,"y":274,"w":33,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":22},
+	"sourceSize": {"w":33,"h":22},
+	"anchor": {"x":0.515152,"y":0.772727}
+},
+"金身1.png":
+{
+	"frame": {"x":35,"y":315,"w":31,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"anchor": {"x":0.709677,"y":1}
+},
+"金身2.png":
+{
+	"frame": {"x":33,"y":411,"w":31,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"anchor": {"x":0.741935,"y":1}
+}},
+"animations": {
+	"j": ["j1.png","j2.png","j3.png"],
+	"u": ["u1.png","u2.png"],
+	"死亡": ["死亡1.png","死亡2.png","死亡3.png","死亡4.png","死亡5.png","死亡6.png"],
+	"站": ["站1.png","站2.png"],
+	"蓄力重击": ["蓄力重击1.png","蓄力重击2.png","蓄力重击3.png","蓄力重击4.png","蓄力重击5.png"],
+	"走": ["走1.png","走2.png","走3.png","走4.png","走5.png"],
+	"跳": ["跳1.png","跳2.png","跳3.png","跳4.png"],
+	"金身": ["金身1.png","金身2.png","金身2.png","金身2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wukong.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":443},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e1236b3690a4ccb110d39e0ca7c99f29:fd85d35ed78cb0aca692b7485882e9d6:7c3f1b61a66c4a5b25571591c137e689$"
+}
+}

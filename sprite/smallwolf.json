@@ -1,0 +1,619 @@
+{"frames": {
+
+"刀.png":
+{
+	"frame": {"x":119,"y":64,"w":19,"h":4},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":4},
+	"sourceSize": {"w":19,"h":4},
+	"anchor": {"x":0.5,"y":1}
+},
+"刀盾狼攻击1.png":
+{
+	"frame": {"x":61,"y":24,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":31},
+	"sourceSize": {"w":20,"h":31},
+	"anchor": {"x":0.55,"y":1}
+},
+"刀盾狼攻击2.png":
+{
+	"frame": {"x":61,"y":1,"w":34,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":22},
+	"sourceSize": {"w":34,"h":22},
+	"anchor": {"x":0.823529,"y":1}
+},
+"刀盾狼站1.png":
+{
+	"frame": {"x":96,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24},
+	"anchor": {"x":0.7,"y":1}
+},
+"刀盾狼站2.png":
+{
+	"frame": {"x":282,"y":1,"w":30,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":23},
+	"sourceSize": {"w":30,"h":23},
+	"anchor": {"x":0.7,"y":1}
+},
+"刀盾狼被打1.png":
+{
+	"frame": {"x":127,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24},
+	"anchor": {"x":0.766667,"y":1}
+},
+"刀盾狼被打2.png":
+{
+	"frame": {"x":130,"y":26,"w":19,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":31},
+	"sourceSize": {"w":19,"h":31},
+	"anchor": {"x":0.421053,"y":1}
+},
+"刀盾狼被打3.png":
+{
+	"frame": {"x":93,"y":43,"w":30,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":10},
+	"sourceSize": {"w":30,"h":10},
+	"anchor": {"x":0,"y":1}
+},
+"刀盾狼被打左.png":
+{
+	"frame": {"x":158,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24},
+	"anchor": {"x":0,"y":0}
+},
+"刀盾狼走1.png":
+{
+	"frame": {"x":189,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24},
+	"anchor": {"x":0.733333,"y":1}
+},
+"刀盾狼走2.png":
+{
+	"frame": {"x":162,"y":26,"w":30,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":23},
+	"sourceSize": {"w":30,"h":23},
+	"anchor": {"x":0.733333,"y":1}
+},
+"刀盾狼走3.png":
+{
+	"frame": {"x":193,"y":26,"w":29,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":23},
+	"sourceSize": {"w":29,"h":23},
+	"anchor": {"x":0.724138,"y":1}
+},
+"刀盾狼走4.png":
+{
+	"frame": {"x":220,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24},
+	"anchor": {"x":0.733333,"y":1}
+},
+"刀盾狼走5.png":
+{
+	"frame": {"x":251,"y":1,"w":30,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":24},
+	"sourceSize": {"w":30,"h":24},
+	"anchor": {"x":0.733333,"y":1}
+},
+"刀盾狼防御1.png":
+{
+	"frame": {"x":153,"y":84,"w":17,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":23},
+	"sourceSize": {"w":18,"h":23},
+	"anchor": {"x":0.611111,"y":1}
+},
+"刀盾狼防御2.png":
+{
+	"frame": {"x":271,"y":108,"w":16,"h":23},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":23},
+	"sourceSize": {"w":16,"h":23},
+	"anchor": {"x":0.625,"y":1}
+},
+"帽子.png":
+{
+	"frame": {"x":219,"y":50,"w":3,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":1},
+	"sourceSize": {"w":3,"h":1},
+	"anchor": {"x":0.5,"y":1}
+},
+"弓箭狼拉弓1.png":
+{
+	"frame": {"x":253,"y":26,"w":26,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":28},
+	"sourceSize": {"w":26,"h":28},
+	"anchor": {"x":0.730769,"y":1}
+},
+"弓箭狼拉弓2.png":
+{
+	"frame": {"x":153,"y":56,"w":23,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":23,"h":27},
+	"sourceSize": {"w":23,"h":28},
+	"anchor": {"x":0.652174,"y":1}
+},
+"弓箭狼拉弓3.png":
+{
+	"frame": {"x":32,"y":32,"w":22,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":28},
+	"sourceSize": {"w":22,"h":28},
+	"anchor": {"x":0.636364,"y":1}
+},
+"弓箭狼拿箭走1.png":
+{
+	"frame": {"x":124,"y":56,"w":22,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":28},
+	"sourceSize": {"w":22,"h":28},
+	"anchor": {"x":0.636364,"y":1}
+},
+"弓箭狼拿箭走2.png":
+{
+	"frame": {"x":124,"y":79,"w":22,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":28},
+	"sourceSize": {"w":22,"h":28},
+	"anchor": {"x":0.636364,"y":1}
+},
+"弓箭狼拿箭走3.png":
+{
+	"frame": {"x":114,"y":102,"w":22,"h":28},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":28},
+	"sourceSize": {"w":22,"h":28},
+	"anchor": {"x":0.681818,"y":1}
+},
+"弓箭狼拿箭走4.png":
+{
+	"frame": {"x":143,"y":102,"w":22,"h":27},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":27},
+	"sourceSize": {"w":22,"h":27},
+	"anchor": {"x":0.681818,"y":1}
+},
+"弓箭狼站1.png":
+{
+	"frame": {"x":1,"y":107,"w":17,"h":26},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":26},
+	"sourceSize": {"w":17,"h":26},
+	"anchor": {"x":0.529412,"y":1}
+},
+"弓箭狼站2.png":
+{
+	"frame": {"x":28,"y":106,"w":17,"h":25},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":25},
+	"sourceSize": {"w":17,"h":25},
+	"anchor": {"x":0.529412,"y":1}
+},
+"弓箭狼被打1.png":
+{
+	"frame": {"x":313,"y":1,"w":17,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":26},
+	"sourceSize": {"w":17,"h":26},
+	"anchor": {"x":0.647059,"y":1}
+},
+"弓箭狼被打2.png":
+{
+	"frame": {"x":223,"y":102,"w":22,"h":23},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":23},
+	"sourceSize": {"w":22,"h":23},
+	"anchor": {"x":0.363636,"y":1}
+},
+"弓箭狼被打3.png":
+{
+	"frame": {"x":124,"y":46,"w":30,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":9},
+	"sourceSize": {"w":30,"h":9},
+	"anchor": {"x":0,"y":1}
+},
+"弓箭走路0.png":
+{
+	"frame": {"x":54,"y":106,"w":17,"h":26},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":26},
+	"sourceSize": {"w":17,"h":26},
+	"anchor": {"x":0.5,"y":1}
+},
+"弓箭走路1.png":
+{
+	"frame": {"x":312,"y":28,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+	"anchor": {"x":0.5,"y":1}
+},
+"弓箭走路2.png":
+{
+	"frame": {"x":229,"y":76,"w":17,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":25},
+	"sourceSize": {"w":17,"h":25},
+	"anchor": {"x":0.5,"y":1}
+},
+"弓箭走路3.png":
+{
+	"frame": {"x":201,"y":50,"w":17,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":26},
+	"sourceSize": {"w":17,"h":26},
+	"anchor": {"x":0.5,"y":1}
+},
+"弓箭走路4.png":
+{
+	"frame": {"x":246,"y":53,"w":17,"h":26},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":26},
+	"sourceSize": {"w":17,"h":26},
+	"anchor": {"x":0.5,"y":1}
+},
+"斥候狼挥舞1.png":
+{
+	"frame": {"x":1,"y":1,"w":30,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":33},
+	"sourceSize": {"w":30,"h":33},
+	"anchor": {"x":0.333333,"y":1}
+},
+"斥候狼挥舞2.png":
+{
+	"frame": {"x":1,"y":35,"w":27,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":35},
+	"sourceSize": {"w":27,"h":35},
+	"anchor": {"x":0.37037,"y":1}
+},
+"斥候狼站1.png":
+{
+	"frame": {"x":177,"y":50,"w":23,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":26},
+	"sourceSize": {"w":23,"h":26},
+	"anchor": {"x":0.434783,"y":1}
+},
+"斥候狼站2.png":
+{
+	"frame": {"x":271,"y":82,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":25},
+	"sourceSize": {"w":23,"h":25},
+	"anchor": {"x":0.434783,"y":1}
+},
+"斥候狼被打1.png":
+{
+	"frame": {"x":219,"y":52,"w":23,"h":26},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":26},
+	"sourceSize": {"w":23,"h":26},
+	"anchor": {"x":0.521739,"y":1}
+},
+"斥候狼被打2.png":
+{
+	"frame": {"x":32,"y":1,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":30},
+	"sourceSize": {"w":28,"h":30},
+	"anchor": {"x":0.285714,"y":1}
+},
+"斥候狼被打3.png":
+{
+	"frame": {"x":93,"y":54,"w":30,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":9},
+	"sourceSize": {"w":30,"h":9},
+	"anchor": {"x":0,"y":1}
+},
+"斥候狼走1.png":
+{
+	"frame": {"x":247,"y":71,"w":23,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":26},
+	"sourceSize": {"w":23,"h":26},
+	"anchor": {"x":0.478261,"y":1}
+},
+"斥候狼走2.png":
+{
+	"frame": {"x":300,"y":58,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":25},
+	"sourceSize": {"w":23,"h":25},
+	"anchor": {"x":0.478261,"y":1}
+},
+"斥候狼走3.png":
+{
+	"frame": {"x":295,"y":84,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":25},
+	"sourceSize": {"w":23,"h":25},
+	"anchor": {"x":0.478261,"y":1}
+},
+"斥候狼走4.png":
+{
+	"frame": {"x":247,"y":98,"w":23,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":26},
+	"sourceSize": {"w":23,"h":26},
+	"anchor": {"x":0.478261,"y":1}
+},
+"斥候狼走5.png":
+{
+	"frame": {"x":273,"y":58,"w":23,"h":26},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":26},
+	"sourceSize": {"w":23,"h":26},
+	"anchor": {"x":0.478261,"y":1}
+},
+"斧头1.png":
+{
+	"frame": {"x":282,"y":51,"w":29,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":6},
+	"sourceSize": {"w":29,"h":6},
+	"anchor": {"x":0.5,"y":1}
+},
+"斧头2.png":
+{
+	"frame": {"x":81,"y":115,"w":28,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":6},
+	"sourceSize": {"w":28,"h":6},
+	"anchor": {"x":0.5,"y":1}
+},
+"斧头狼攻击1.png":
+{
+	"frame": {"x":93,"y":26,"w":16,"h":36},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":36},
+	"sourceSize": {"w":16,"h":36},
+	"anchor": {"x":0.375,"y":1}
+},
+"斧头狼攻击2.png":
+{
+	"frame": {"x":1,"y":71,"w":35,"h":22},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":22},
+	"sourceSize": {"w":35,"h":22},
+	"anchor": {"x":0.828571,"y":1}
+},
+"斧头狼站1.png":
+{
+	"frame": {"x":223,"y":26,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25},
+	"anchor": {"x":0.655172,"y":1}
+},
+"斧头狼站2.png":
+{
+	"frame": {"x":29,"y":55,"w":29,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":24},
+	"sourceSize": {"w":29,"h":24},
+	"anchor": {"x":0.655172,"y":1}
+},
+"斧头狼被打1.png":
+{
+	"frame": {"x":282,"y":25,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25},
+	"anchor": {"x":0.689655,"y":1}
+},
+"斧头狼被打2.png":
+{
+	"frame": {"x":198,"y":102,"w":22,"h":24},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":24},
+	"sourceSize": {"w":22,"h":24},
+	"anchor": {"x":0.409091,"y":1}
+},
+"斧头狼被打3.png":
+{
+	"frame": {"x":61,"y":45,"w":31,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":9},
+	"sourceSize": {"w":31,"h":9},
+	"anchor": {"x":0,"y":1}
+},
+"斧头狼走1.png":
+{
+	"frame": {"x":24,"y":80,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25},
+	"anchor": {"x":0.689655,"y":1}
+},
+"斧头狼走2.png":
+{
+	"frame": {"x":59,"y":55,"w":29,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":24},
+	"sourceSize": {"w":29,"h":24},
+	"anchor": {"x":0.689655,"y":1}
+},
+"斧头狼走3.png":
+{
+	"frame": {"x":89,"y":64,"w":29,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":24},
+	"sourceSize": {"w":29,"h":24},
+	"anchor": {"x":0.689655,"y":1}
+},
+"斧头狼走4.png":
+{
+	"frame": {"x":54,"y":80,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25},
+	"anchor": {"x":0.689655,"y":1}
+},
+"斧头狼走5.png":
+{
+	"frame": {"x":84,"y":89,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25},
+	"anchor": {"x":0.689655,"y":1}
+},
+"火把.png":
+{
+	"frame": {"x":29,"y":35,"w":11,"h":2},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":2},
+	"sourceSize": {"w":11,"h":2},
+	"anchor": {"x":0.5,"y":1}
+},
+"火把攻击1.png":
+{
+	"frame": {"x":171,"y":102,"w":22,"h":26},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":26},
+	"sourceSize": {"w":22,"h":26},
+	"anchor": {"x":0.454545,"y":1}
+},
+"火把攻击2.png":
+{
+	"frame": {"x":177,"y":77,"w":25,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":24},
+	"sourceSize": {"w":25,"h":24},
+	"anchor": {"x":0.76,"y":1}
+},
+"火把攻击3.png":
+{
+	"frame": {"x":203,"y":77,"w":24,"h":25},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":25},
+	"sourceSize": {"w":24,"h":25},
+	"anchor": {"x":0.791667,"y":1}
+},
+"箭.png":
+{
+	"frame": {"x":312,"y":54,"w":15,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":3},
+	"sourceSize": {"w":15,"h":3},
+	"anchor": {"x":0.533333,"y":1}
+}},
+"animations": {
+	"刀盾狼攻击": ["刀盾狼攻击1.png","刀盾狼攻击2.png"],
+	"刀盾狼站": ["刀盾狼站1.png","刀盾狼站2.png"],
+	"刀盾狼被打": ["刀盾狼被打1.png","刀盾狼被打2.png","刀盾狼被打3.png"],
+	"刀盾狼走": ["刀盾狼走1.png","刀盾狼走2.png","刀盾狼走3.png","刀盾狼走4.png","刀盾狼走5.png"],
+	"刀盾狼防御": ["刀盾狼防御1.png","刀盾狼防御2.png","刀盾狼防御2.png","刀盾狼防御2.png","刀盾狼防御2.png","刀盾狼防御2.png","刀盾狼防御2.png"],
+	"弓箭狼拉弓": ["弓箭狼拉弓1.png","弓箭狼拉弓2.png","弓箭狼拉弓3.png"],
+	"弓箭狼拿箭走": ["弓箭狼拿箭走1.png","弓箭狼拿箭走2.png","弓箭狼拿箭走3.png","弓箭狼拿箭走4.png"],
+	"弓箭狼站": ["弓箭狼站1.png","弓箭狼站2.png"],
+	"弓箭狼被打": ["弓箭狼被打1.png","弓箭狼被打2.png","弓箭狼被打3.png"],
+	"弓箭走路": ["弓箭走路0.png","弓箭走路1.png","弓箭走路2.png","弓箭走路3.png","弓箭走路4.png"],
+	"斥候狼挥舞": ["斥候狼挥舞1.png","斥候狼挥舞2.png"],
+	"斥候狼站": ["斥候狼站1.png","斥候狼站2.png"],
+	"斥候狼被打": ["斥候狼被打1.png","斥候狼被打2.png","斥候狼被打3.png"],
+	"斥候狼走": ["斥候狼走1.png","斥候狼走2.png","斥候狼走3.png","斥候狼走4.png","斥候狼走5.png"],
+	"斧头": ["斧头1.png","斧头2.png"],
+	"斧头狼攻击": ["斧头狼攻击1.png","斧头狼攻击2.png"],
+	"斧头狼站": ["斧头狼站1.png","斧头狼站2.png"],
+	"斧头狼被打": ["斧头狼被打1.png","斧头狼被打2.png","斧头狼被打3.png"],
+	"斧头狼走": ["斧头狼走1.png","斧头狼走2.png","斧头狼走3.png","斧头狼走4.png","斧头狼走5.png"],
+	"火把攻击": ["火把攻击1.png","火把攻击2.png","火把攻击3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "smallwolf.png",
+	"format": "RGBA8888",
+	"size": {"w":331,"h":125},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a490adbc47066e64dee71dbb39383084:ecdb6a6fdce783ff6efb87172c9c683b:2640b26b2436d858a260c89f09755b34$"
+}
+}
