@@ -1,0 +1,4 @@
+# production
+/dist
+/node_modules
+/.cache
