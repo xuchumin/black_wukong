@@ -1,4 +1,6 @@
 # production
-/dist
 /node_modules
 /.cache
+/dist/*html
+/dist/*js
+/dist/*map
